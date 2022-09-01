@@ -11,3 +11,6 @@ The robot's purpose is to try to keep itself up simply.
 - Battery
 - 2x Tires
 - Chassis
+# Optional:
+- Bluetooth module
+- SelfBalancing application
